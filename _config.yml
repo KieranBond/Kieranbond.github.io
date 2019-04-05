@@ -1,10 +1,10 @@
 # Site
-title:              Kieran Bond - Games Programmer
-bio:                'Kieran Bond, Games Developer'
+title:              Kieran Bond
+bio:                'A Computer Games Programmer, churned out of the University of Glos'
 description:        "A Computer Games Dev"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/me2.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
