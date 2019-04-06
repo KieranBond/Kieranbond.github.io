@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Festival Thrashers!"
+date: 
 excerpt: "A University final year group project. Couch co-op fun!"
 project: true
 tag:
