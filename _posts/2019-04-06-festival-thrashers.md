@@ -19,7 +19,7 @@ comments: false
 {% capture images %}
 	https://kieranbond.github.io/assets/img/portfolio/festival_thrashers/logo.png
 {% endcapture %}
-{% include gallery images=images caption="Game Logo" cols=1 %}
+{% include gallery images=images caption="Game Logo" %}
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
