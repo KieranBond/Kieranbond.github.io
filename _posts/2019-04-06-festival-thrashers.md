@@ -22,7 +22,7 @@ comments: false
 {% include gallery images=images caption="Game Logo" %}
 
     
-<center>Festival Thrashers - A couch co-op party mayhem game.</center>
+<center><b>Festival Thrashers - A couch co-op party mayhem game.<b></center>
      
 Festival Thrashers is a game made during my final year at University for my group project module. 
 Our aim as a team was to create a super satisfying and fun game that can be played around a friends house, on their sofa. We wanted it to be in a polished state throughout development so that we can focus on the fun as we make it.
@@ -35,4 +35,5 @@ My job as a programmer on this game mostly consisted of getting our game systems
 I also partially worked on some gameplay mechanics, such as multiple traps in the levels.
 
 <b>We're still working on this, so watch this space!</b>
-You can see more about our game at <a href="lorepow.com">our website</a>, as well as <a href="https://www.youtube.com/channel/UCtm8lBVC0FnpF7fDQhLr21A">our youtube</a>, and <a href="https://twitter.com/Lore_Pow">our Twitter</a>
+
+You can see more about our game at <a href="lorepow.com">our website</a>, as well as <a href="https://www.youtube.com/channel/UCtm8lBVC0FnpF7fDQhLr21A">our youtube</a>, and <a href="https://twitter.com/Lore_Pow">our Twitter.</a>
