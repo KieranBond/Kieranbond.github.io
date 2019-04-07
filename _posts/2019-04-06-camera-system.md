@@ -21,8 +21,10 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="IRP Project" %}
 
-This project is a camera system developed to be used in Unity3D (primarily for 2D games).
+This project is a camera system developed to be used in Unity3D (primarily for 2D games). 
     
+
+	
 I created this project whilst in my final year of University, for a module called the Individual Research Project - This is the closest thing we have to a dissertation on the course.
 
 For the assignment I had to do two things; research a topic of my choosing, and then create a practical piece in relation to this.
@@ -33,8 +35,8 @@ My research topic was: 'An investigation into improving user experience through 
 
 <h2> Resources </h2>
 
-<div class="github-card" data-github="KieranBond/Unity-Camera-System" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/KieranBond/Unity-Camera-System">KieranBond/Unity-Camera-System</a></h4></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <a href= "https://kieranbond.github.io/assets/img/portfolio/camera_system/IRP_Poster.pdf">Poster PDF</a>
 
