@@ -22,7 +22,7 @@ comments: false
 {% include gallery images=images caption="Game Logo" %}
 
     
-<center><b>Festival Thrashers - A couch co-op party mayhem game.<b></center>
+<center><b>Festival Thrashers - A couch co-op party mayhem game.</b></center>
      
 Festival Thrashers is a game made during my final year at University for my group project module. 
 Our aim as a team was to create a super satisfying and fun game that can be played around a friends house, on their sofa. We wanted it to be in a polished state throughout development so that we can focus on the fun as we make it.
