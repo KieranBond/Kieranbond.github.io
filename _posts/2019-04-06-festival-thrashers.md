@@ -32,4 +32,4 @@ The team was 5 person big, with 3 artists and 2 programmers; me included.
 My job as a programmer on this game mostly consisted of getting our game systems working, systems such as networking and game/scene management.
 I also partially worked on some gameplay mechanics, such as multiple traps in the levels.
 
-<p1>You can see more about our game at [our website](lorepow.com)</p1>
+You can see more about our game at <a href="lorepow.com">our website</a>
