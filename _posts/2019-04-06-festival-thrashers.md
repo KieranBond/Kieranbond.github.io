@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Festival Thrashers!"
-date : "null"
+date : 2019-04-06
 excerpt: "A University final year group project. Couch co-op fun!"
 project: true
 tag:
@@ -28,8 +28,6 @@ Festival Thrashers is a game made during my final year at University for my grou
 Our aim as a team was to create a super satisfying and fun game that can be played around a friends house, on their sofa. We wanted it to be in a polished state throughout development so that we can focus on the fun as we make it.
  I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      
 ## Installation
 * Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
 * Edit `_config.yml` file.
