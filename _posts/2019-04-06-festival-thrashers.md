@@ -21,10 +21,11 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Game Logo" %}
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+<center>Festival Thrashers - A couch co-op party mayhem game.</center>
      
+Festival Thrashers is a game made during my final year at University for my group project module. 
+Our aim as a team was to create a super satisfying and fun game that can be played around a friends house, on their sofa. We wanted it to be in a polished state throughout development so that we can focus on the fun as we make it.
  I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
