@@ -32,5 +32,5 @@ The team has 5 people, 3 artists and 2 programmers; me included.
 My job as a programmer on this game mostly consisted of getting our game systems working, systems such as networking and game/scene management.
 I also partially worked on some gameplay mechanics, such as multiple traps in the levels.
 
-We're still working on this, so watch this space!
+<b>We're still working on this, so watch this space!</b>
 You can see more about our game at <a href="lorepow.com">our website</a>, as well as <a href="https://www.youtube.com/channel/UCtm8lBVC0FnpF7fDQhLr21A">our youtube</a>, and <a href="https://twitter.com/Lore_Pow">our Twitter</a>
