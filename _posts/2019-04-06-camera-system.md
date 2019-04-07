@@ -33,7 +33,7 @@ My research topic was: 'An investigation into improving user experience through 
 
 <h2> Resources </h2>
 
-<div class="github-card" data-github="KieranBond/Unity-Camera-System" data-width="400" data-height="" data-theme="medium"></div>
+<div class="github-card" data-github="KieranBond/Unity-Camera-System" data-theme="medium"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <a href= "https://kieranbond.github.io/assets/img/portfolio/camera_system/IRP_Poster.pdf">Poster PDF</a>
