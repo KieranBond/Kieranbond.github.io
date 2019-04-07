@@ -35,9 +35,9 @@ My research topic was: 'An investigation into improving user experience through 
 
 <h2> Resources </h2>
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/KieranBond/Unity-Camera-System">KieranBond/Unity-Camera-System</a></h4></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
 <a href= "https://kieranbond.github.io/assets/img/portfolio/camera_system/IRP_Poster.pdf">Poster PDF</a>
 
 <a href= "https://kieranbond.github.io/assets/documents/portfolio/camera_system/Camera_System_Kieran_Bond_Research.docx">Camera Research</a>
+
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/KieranBond/Unity-Camera-System">KieranBond/Unity-Camera-System</a></h4></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
