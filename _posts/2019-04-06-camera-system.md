@@ -22,8 +22,6 @@ comments: false
 {% include gallery images=images caption="IRP Project" %}
 
 This project is a camera system developed to be used in Unity3D (primarily for 2D games). 
-    
-
 	
 I created this project whilst in my final year of University, for a module called the Individual Research Project - This is the closest thing we have to a dissertation on the course.
 
@@ -31,7 +29,7 @@ For the assignment I had to do two things; research a topic of my choosing, and 
 
 My research topic was: 'An investigation into improving user experience through game camera implementation'. This topic stemmed from my time playing games where I had experienced poor camera systems, as well as when I'd experienced great cameras that massively affected the gameplay.
 
-
+Because I got to choose my research subject, and thus practical for this assignment, it's a partial passion project too. I chose this topic because it was something I wanted to do anyways and learn about. I enjoy the cinematography side to it and also the technical difficulties in getting it working the way you want.
 
 <h2> Resources </h2>
 
