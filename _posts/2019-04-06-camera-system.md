@@ -31,11 +31,13 @@ My research topic was: 'An investigation into improving user experience through 
 
 Because I got to choose my research subject, and thus practical for this assignment, it's a partial passion project too. I chose this topic because it was something I wanted to do anyways and learn about. I enjoy the cinematography side to it and also the technical difficulties in getting it working the way you want.
 
+I've also worked a small amount on this project since submitting it as an assignment, in my spare time. I'd like to polish it more, add some more features and then get a 3D version working too.
+
 <h2> Resources </h2>
 
 <a href= "https://kieranbond.github.io/assets/img/portfolio/camera_system/IRP_Poster.pdf">Poster PDF</a>
 
-<a href= "https://kieranbond.github.io/assets/documents/portfolio/camera_system/Camera_System_Kieran_Bond_Research.docx">Camera Research</a>
+<a href= "https://kieranbond.github.io/assets/documents/portfolio/camera_system/Camera_System_Kieran_Bond_Research.docx">IRP Research Document (~4000 words)</a>
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/KieranBond/Unity-Camera-System">KieranBond/Unity-Camera-System</a></h4></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
