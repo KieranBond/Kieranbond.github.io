@@ -24,18 +24,8 @@ I love being active and getting my creative juices flowing. Whether that's throu
 * Creative Thinking
 * A sprinkle of Node.Js
 
-## Preview
-
 {% capture images %}
 	https://kieranbond.github.io/assets/img/about/kayakflip3.png
 	https://kieranbond.github.io/assets/img/about/toughmudder3.png
 {% endcapture %}
 {% include gallery images=images cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
