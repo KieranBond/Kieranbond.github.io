@@ -24,6 +24,8 @@ I love being active and getting my creative juices flowing. Whether that's throu
 * Creative Thinking
 * A sprinkle of Node.Js
 
+<iframe src="https://drive.google.com/file/d/1-6B_-nGjP_0rsTYj-nyVIe6JPB2gZAJz/preview"></iframe>
+
 {% capture images %}
 	https://kieranbond.github.io/assets/img/about/kayakflip3.png
 	https://kieranbond.github.io/assets/img/about/toughmudder3.png
