@@ -28,7 +28,7 @@ I love being active and getting my creative juices flowing. Whether that's throu
 
 {% capture images %}
 	https://kieranbond.github.io/assets/img/about/kayakflip3.png
-	https://kieranbond.github.io/assets/img/about/Toughmudder.jpg
+	https://kieranbond.github.io/assets/img/about/Toughmudder2.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
