@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tags: [about, Jekyll, theme, moon, programmer, Kieran Bond, ]
+tags: [about, programmer, Kieran Bond ]
 date: 2019-04-08
 showdate: false
 comments: false
@@ -24,7 +24,9 @@ I love being active and getting my creative juices flowing. Whether that's throu
 * Creative Thinking
 * A sprinkle of Node.Js
 
-<class="cv-embed"><iframe width="50%" height="50%" style="border:none;" src="https://drive.google.com/file/d/1-6B_-nGjP_0rsTYj-nyVIe6JPB2gZAJz/preview"></iframe></class>
+<div class="cv-embed">
+	<iframe width="50%" height="50%" style="border:none;" src="https://drive.google.com/file/d/1-6B_-nGjP_0rsTYj-nyVIe6JPB2gZAJz/preview"></iframe>
+</div>
 
 
 {% capture images %}
