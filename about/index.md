@@ -24,7 +24,7 @@ I love being active and getting my creative juices flowing. Whether that's throu
 * Creative Thinking
 * A sprinkle of Node.Js
 
-<iframe width="50%" height="50%" position="centre" src="https://drive.google.com/file/d/1-6B_-nGjP_0rsTYj-nyVIe6JPB2gZAJz/preview"></iframe>
+<class="cv-embed"><iframe width="50%" height="50%" style="border:none;" src="https://drive.google.com/file/d/1-6B_-nGjP_0rsTYj-nyVIe6JPB2gZAJz/preview"></iframe></class>
 
 
 {% capture images %}
