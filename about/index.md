@@ -6,7 +6,7 @@ date: 2019-04-08
 showdate: false
 comments: false
 ---
-    
+<centre>    
 I'm a final year Undergrad Student at the University of Gloucestershire, studying Computer Games Programming.
 
 Across 2017 and 2018, I worked as a member of the Digital team at Squint/Opera as a Developer on a year long placement. I've learnt and grown a lot from that experience; in professionality, skill, and attitude. The placement provided me with the opportunity of working on a variety of projects, alongside a great team who pushed me to grow and challenged me often.
@@ -25,6 +25,7 @@ I love being active and getting my creative juices flowing. Whether that's throu
 * A sprinkle of Node.Js
 
 <iframe width="50%" height="50%" style="border:none;" src="https://drive.google.com/file/d/1-6B_-nGjP_0rsTYj-nyVIe6JPB2gZAJz/preview"></iframe>
+</centre>
 
 {% capture images %}
 	https://kieranbond.github.io/assets/img/about/kayakflip.jpg
