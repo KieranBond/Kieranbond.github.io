@@ -5,13 +5,9 @@ date : 2019-04-06
 excerpt: "A University final year project. An elegant and simple 2D camera system for Unity3D."
 project: true
 tag:
-- jekyll 
-- moon
 - portfolio
 - games
 - programming
-- about
-- theme
 - camera
 comments: false
 ---
