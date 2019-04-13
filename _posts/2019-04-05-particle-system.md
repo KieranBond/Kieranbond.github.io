@@ -38,7 +38,7 @@ Below is some snippets from the repository, mostly looking at the Particle class
 	https://kieranbond.github.io/assets/img/portfolio/particle_system/ParticleCpp2.png
 	https://kieranbond.github.io/assets/img/portfolio/particle_system/ParticleHeader1.png
 {% endcapture %}
-{% include gallery images=images caption="Code Preview" %}
+{% include gallery images=images caption="Code Preview" cols=1 %}
 
 
 <h2> Resources </h2>
