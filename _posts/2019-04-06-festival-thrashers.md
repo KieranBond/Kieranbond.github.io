@@ -36,9 +36,11 @@ I also worked on some gameplay mechanics, such as a lot of the traps and bits an
 
 You can see more about our game at <a href="https://twitter.com/Lore_Pow">our Twitter</a>, <a href="lorepow.com">our website</a>, and <a href="https://www.youtube.com/channel/UCtm8lBVC0FnpF7fDQhLr21A">our youtube</a>.
 
-My team:
+<b>The Team:</b>
 
 <a href="http://tomtoye.co.uk/">Tom - Programmer</a>
+
+<a href="http://kieranbond.co.uk"> Me! - Programmer<a>
 
 <a href="https://www.artstation.com/nickwiltshire">Nick - Artist</a>
 
