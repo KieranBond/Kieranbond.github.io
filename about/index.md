@@ -7,7 +7,7 @@ showdate: false
 comments: false
 ---
 
-I'm a final year Undergrad Student at the University of Gloucestershire, studying Computer Games Programming.
+I'm a final year Undergrad Student at the University of Gloucestershire, studying Computer Games Programming - originally hailing from Bath.
 
 Across 2017 and 2018, I worked as a member of the Digital team at Squint/Opera as a Developer on a year long placement. I've learnt and grown a lot from that experience; in professionality, skill, and attitude. The placement provided me with the opportunity of working on a variety of projects, alongside a great team who pushed me to grow and challenged me often.
 
