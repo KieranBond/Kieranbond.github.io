@@ -24,7 +24,7 @@ comments: false
 Festival Thrashers is a game made during my final year at University for my group project module. 
 Our aim as a team was to create a super satisfying and fun game that can be played around a friends house, on their sofa. We wanted it to be in a polished state throughout development so that we can focus on the fun as we make it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UkcoerP0lks&t=1s" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UkcoerP0lks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The team has 5 people, 3 artists and 2 programmers; me included.
 
