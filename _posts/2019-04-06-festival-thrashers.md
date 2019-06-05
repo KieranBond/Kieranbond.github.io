@@ -41,5 +41,7 @@ My team:
 <a href="http://tomtoye.co.uk/">Tom - Programmer</a>
 
 <a href="https://www.artstation.com/nickwiltshire">Nick - Artist</a>
+
 <a href="www.chloebostock.wixsite.com/portfolio">Chloe - Artist / Team Manager</a>
+
 <a href="https://www.artstation.com/jake_ivany">Jake - Artist</a>
