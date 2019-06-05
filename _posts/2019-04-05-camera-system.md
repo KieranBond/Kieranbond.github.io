@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unity Camera system"
-date : 2019-04-06
+date : 2019-04-05
 excerpt: "A University final year project. An elegant and simple 2D camera system for Unity3D."
 project: true
 tag:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Particle System - C++"
-date : 2019-04-06
+date : 2019-04-01
 excerpt: "A Particle System written in C++, with aims to be as efficient as possible."
 project: true
 tag:
