@@ -5,7 +5,7 @@ description:        "A Computer Games Dev"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/me2.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/coffee.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
 url:                https://kieranbond.github.io
