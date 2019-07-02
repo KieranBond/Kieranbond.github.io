@@ -14,7 +14,7 @@ in professionality, skill, and attitude. The placement provided me with the oppo
 team who pushed me to grow and challenged me often.
 
 I love being active and getting my creative juices flowing. Whether that's through doing sports like Kayaking, exploring a game idea, 
-a tool/side project, or just trying to learn something new. If I'm not doing any of these, then you can likely find me with friends - Gaming, or something a bit different!
+a tool/side project, or just trying to learn something new. If I'm not doing any of these, then you can likely find me either with friends, gaming, or drinking some good coffee.
 
 ## Skills
 * Unity3D
