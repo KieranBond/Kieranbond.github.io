@@ -7,11 +7,14 @@ showdate: false
 comments: false
 ---
 
-I'm a final year Undergrad Student at the University of Gloucestershire, studying Computer Games Programming - originally hailing from Bath.
+I'm a University of Gloucestershire alumni, who studied Computer Games Programming during his time there - originally hailing from the nearby city of Bath.
 
-Across 2017 and 2018, I worked as a member of the Digital team at Squint/Opera as a Developer on a year long placement. I've learnt and grown a lot from that experience; in professionality, skill, and attitude. The placement provided me with the opportunity of working on a variety of projects, alongside a great team who pushed me to grow and challenged me often.
+Across 2017 and 2018, I worked as a member of the Digital team at Squint/Opera as a Developer on a year long placement. I've learnt and grown a lot from that experience; 
+in professionality, skill, and attitude. The placement provided me with the opportunity of working on a variety of projects, alongside a great
+team who pushed me to grow and challenged me often.
 
-I love being active and getting my creative juices flowing. Whether that's through doing sports like Kayaking, exploring a game idea, a tool side project, or just trying to learn something new. If I'm not doing any of these, then you can likely find me with friends - Gaming or out and about!
+I love being active and getting my creative juices flowing. Whether that's through doing sports like Kayaking, exploring a game idea, 
+a tool/side project, or just trying to learn something new. If I'm not doing any of these, then you can likely find me with friends - Gaming, or something a bit different!
 
 ## Skills
 * Unity3D
