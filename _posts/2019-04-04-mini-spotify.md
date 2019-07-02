@@ -20,7 +20,7 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Player Mockup" %}
 
-Mini-Spotify (working title) is a minified version of the Spotify Player, meets the Windows media panel. 
+Mini-Spotify is a minified version of the Spotify Player if it met the Windows media panel. 
 
 It's designed to give you the important information, but in a smaller package.
 
@@ -39,7 +39,7 @@ So far, I've enjoyed this project! It's been a bit of a fresh break from games, 
 It's not all completely new things, except WPF, but it's still all stuff I've not really worked with much or atleast not in quite a long time and so it's nice 
 to stretch my skills a bit and practice with a slightly different toolset.
 
-
+Icons and UI mockups courtesy of <a href="http://www.jamielaurence.co.uk/">Jamie Laurence</a>
 
 <h2> Resources </h2>
 
