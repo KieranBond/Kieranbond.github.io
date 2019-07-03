@@ -28,7 +28,7 @@ I created this project for a few reasons;
 
 * I wanted this product myself
 * A chance to get some experience with WPF and XAML
-* A nice opportunity to get comfortable using an API
+* A nice opportunity to get comfortable using a new API
 * Something fun and fresh
 	
 I'll be working on this project when I have more features I want to implement, or at the least until I'm happy with it.
@@ -39,11 +39,11 @@ So far, I've enjoyed this project! It's been a bit of a fresh break from games, 
 It's not all completely new things, except WPF, but it's still all stuff I've not really worked with much or atleast not in quite a long time and so it's nice 
 to stretch my skills a bit and practice with a slightly different toolset.
 
-Icons and UI mockups courtesy of <a href="http://www.jamielaurence.co.uk/">Jamie Laurence</a>
+Icons and UI mockups courtesy of <a href="http://www.jamielaurence.co.uk/">Jamie Laurence</a>.
 
 <h2> Resources </h2>
 
-Download the latest release/build <a href="https://github.com/KieranBond/MiniSpotify/releases/tag/v1.1">here.</a> This will require you have a Spotify account, 
+Download the latest release/build <a href="https://github.com/KieranBond/MiniSpotify/releases/tag/v1.2">here.</a> This will require you have a Spotify account, 
 and you'll have to approve access to certain information.
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/KieranBond/MiniSpotify">KieranBond/MiniSpotify</a></h4></blockquote>
