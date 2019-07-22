@@ -43,7 +43,7 @@ Icons and UI mockups courtesy of <a href="http://www.jamielaurence.co.uk/">Jamie
 
 <h2> Resources </h2>
 
-Download the latest release/build <a href="https://github.com/KieranBond/MiniSpotify/releases/tag/v1.3">here.</a> This will require you have a Spotify account, 
+Download the latest release/build <a href="https://github.com/KieranBond/MiniSpotify/releases/tag/v2.0">here.</a> This will require you have a Spotify account, 
 and you'll have to approve access to certain information.
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/KieranBond/MiniSpotify">KieranBond/MiniSpotify</a></h4></blockquote>
