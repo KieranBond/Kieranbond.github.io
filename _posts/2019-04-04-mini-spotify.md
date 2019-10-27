@@ -6,7 +6,7 @@ excerpt: "A side project, designed to learn some new things and make a useful ap
 project: true
 tag:
 - portfolio
-- softwared
+- software
 - programming
 - wpf
 - c#
