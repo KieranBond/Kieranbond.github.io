@@ -24,9 +24,9 @@ comments: false
 
 PReticulated is a simple WPF app that converts PDF's into PNG's. 
 
-It was made to speed up what was currently a slow process, conversion of PDF's to PNG's. Whilst making content applications in the past, when PDF's were being displayed in the app the codebase the team and I were using required PDF's represent each page as a PNG. 
+It was made to speed up what was previously a slow process - conversion of PDF's to PNG's. Whilst making content applications in the past, where PDF's were being displayed in the app, the codebase the team and I were using required PDF's represent each page as a PNG. 
 
-To do this in the past, we were using a conversion tool created by Adobe and performed on their website. This just didn't quite cut it for us for a few reasons.
+To do this in the past, we were using a conversion tool created by Adobe and performed on their website. This just didn't quite cut it for us for a few reasons, the main two being speed and ease.
 
 Whilst having some down-time at work for R&D, I created the app with these reasons in mind;
 
