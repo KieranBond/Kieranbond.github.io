@@ -30,7 +30,7 @@ a tool/side project, or just trying to learn something new. If I'm not doing any
 * A sprinkle of Node.Js
 
 <div class="cv-embed">
-	<iframe width="75%" height="75%" style="border:none;" src="https://drive.google.com/file/d/1N0Lj1g4591Ytni8_-ujSbe1zs5IHJB1F/preview"></iframe>
+	<iframe width=75% height=75% style="border:none;" src="https://drive.google.com/file/d/1N0Lj1g4591Ytni8_-ujSbe1zs5IHJB1F/preview"></iframe>
 </div>
 
 
