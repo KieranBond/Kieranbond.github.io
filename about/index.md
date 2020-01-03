@@ -9,9 +9,11 @@ comments: false
 
 I'm a University of Gloucestershire alumni, who studied Computer Games Programming during his time there - originally hailing from the nearby city of Bath.
 
-Across 2017 and 2018, I worked as a member of the Digital team at Squint/Opera as a Developer on a year long placement. I've learnt and grown a lot from that experience; 
+Across 2017 and 2018, I worked as a member of the Digital team at Squint/Opera (previously known as Rancon) as a Developer on a year long placement. I've learnt and grown a lot from that experience; 
 in professionality, skill, and attitude. The placement provided me with the opportunity of working on a variety of projects, alongside a great
 team who pushed me to grow and challenged me often.
+
+At Squint/Opera most of my work was with the Unity3D engine, which we used in not so traditional ways to create a variety of different client pieces. Alongside this I also got to aid in the creation of other systems outside of the engine - often using one or more of C#, Node.js, or Powershell. 
 
 I love being active and getting my creative juices flowing. Whether that's through doing sports like Kayaking, exploring a game idea, 
 a tool/side project, or just trying to learn something new. If I'm not doing any of these, then you can likely find me either with friends, gaming, or drinking some good coffee.
