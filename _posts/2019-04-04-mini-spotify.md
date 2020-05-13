@@ -39,6 +39,9 @@ So far, I've enjoyed this project! It's been a bit of a fresh break from games, 
 It's not all completely new things, except WPF, but it's still all stuff I've not really worked with much or atleast not in quite a long time and so it's nice 
 to stretch my skills a bit and practice with a slightly different toolset.
 
+One of the biggest difficulties on this project, for me atleast, has actually been the security of the secret-key used when accessing the Spotify API. I've never had to work 
+with them before, atleast not on anything that's public and so never had to worry about it!
+
 Icons and UI mockups courtesy of <a href="http://www.jamielaurence.co.uk/">Jamie Laurence</a>.
 
 <h2> Resources </h2>
