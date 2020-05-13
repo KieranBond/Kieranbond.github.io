@@ -25,9 +25,11 @@ For the assignment I had to do two things; research a topic of my choosing, and 
 
 My research topic was: 'An investigation into improving user experience through game camera implementation'. This topic stemmed from my time playing games where I had experienced poor camera systems, as well as when I'd experienced great cameras that massively affected the gameplay.
 
-Because I got to choose my research subject, and thus practical for this assignment, it's a partial passion project too. I chose this topic because it was something I wanted to do anyways and learn about. I enjoy the cinematography side to it and also the technical difficulties in getting it working the way you want.
+Because I got to choose my research subject, and thus practical for this assignment, it's a partial passion project too. I chose this topic because it was something I wanted to do and learn about. I enjoy the cinematography side to it and also the technical difficulties in getting it working the way you want.
 
-I've also worked a small amount on this project since submitting it as an assignment, in my spare time. I'd like to polish it more, add some more features and then get a 3D version working too.
+I've also worked a small amount on this project since submitting it as an assignment, in my spare time. I'd like to polish it more, add some more features, and get a 3D system working too.
+
+One day, maybe even put it into the asset store.
 
 <h2> Resources </h2>
 
