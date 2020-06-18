@@ -39,15 +39,12 @@ See https://github.com/adobe-type-tools/cmap-resources
 <script src="https://unpkg.com/uuid@latest/dist/umd/uuidv4.min.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?version=3.52.1&features=default%2Ces2015%2Ces2016%2Ces2017%2Ces2018%2Ces2019%2Ces5%2Ces6%2Ces7%2CArray.prototype.flat%2CPromise%2CPromise.prototype.finally"></script>
 <script>
-  var endpoint = "https://daiichisankyovirtualregionalexhibit.pixelhublive.com/api/content/track"
+  var endpoint = ""
   var uuid = uuidv4()
   var params = new URLSearchParams(window.location.search)
 
   var track = function() {
-    if(params.has('tracking') && params.get('tracking')){
-      var data={uuid:uuid,target:'DOWNLOAD:' + params.get('file'),timestamp:new Date(),key:params.get('tracking'),assetID: params.get('assetid'), type:params.get('type')};
-      axios.post(endpoint,data,{headers:{'Content-Type':'application/json'}});
-    }
+   
   }
   </script>
     <script>
