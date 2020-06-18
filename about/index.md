@@ -41,7 +41,8 @@ In my downtime you can usually find me doing sports like Kayaking, exploring a g
 </div> -->
 
 <div class="cv-embed2">
-	<iframe src="/viewer/?file=/assets/documents/KieranBondCV.pdf&download=true#view=fit&zoom=page-fit">
+	<iframe style="border:none;" src="/viewer/?file=/assets/documents/KieranBondCV.pdf&download=true#view=fit&zoom=page-fit">
+	</iframe>
 </div>
 
 
