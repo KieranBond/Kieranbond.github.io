@@ -27,10 +27,12 @@ However, if the weather is not permitting, I will be in the warm either playing 
 * Node.js
 * Powershell
 * Git
+
 ### Development Practices:
 * Test Driven Development (TDD)
 * Agile Development
 * Continuous Integration/Deployment (CI/CD)
+
 ### Soft Skills:
 * Communication – I have excellent interpersonal skills, which is vital when working towards achieving an end goal.
 * Teamwork – It’s important to form strong, supportive relationships with members of my team to ensure we deliver a high quality product. Furthermore, I thrive on learning from others and supporting my team with my own expertise. 
