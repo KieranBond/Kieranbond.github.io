@@ -7,7 +7,7 @@ showdate: false
 comments: false
 ---
 
-I am a University of Gloucestershire alumni, who studied Computer Games Programming from 2015 until 2019 - after which, I graduated with a first. Originally, I grew up in the nearby city of Bath.
+I am a University of Gloucestershire alumni, who studied Computer Games Programming from 2015 until 2019 and graduated with a First (Honours).
 
 Across 2017 and 2018, I worked as a member of the Digital team at Squint/Opera as a Developer on a year long placement. My time with the company provided me with the opportunity to grow, become more experienced, and expand my skills by working on a variety of projects. I worked alongside a great team who pushed me to grow, nurtured my abilities but challenged me always. At Squint/Opera most of my work was with the Unity3D engine, which we used in less traditional ways to create a range of different applications for clients. In addition to this I assisted in the creation of other systems outside of the engine - often using one or more of C#, Node.js, or Powershell. 
 
